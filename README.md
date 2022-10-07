@@ -1,7 +1,5 @@
 # frontend-algoritmalar
 veri yapıları ve algoritmalar eğitimi / projects
-# frontend-algoritmalar
-veri yapıları ve algoritmalar eğitimi / projects
 [22,27,16,2,18,6] ----> Insertion Sort
 [2,27,16,22,18,6] n
 [2,6,16,22,18,27] n-1
